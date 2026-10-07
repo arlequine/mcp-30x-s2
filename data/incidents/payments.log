@@ -1,0 +1,203 @@
+2026-09-28T00:52:30.899Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=4318.13 tx_4ae388
+2026-09-28T00:54:13.576Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4888.53 tx_9e2264
+2026-09-28T02:14:16.784Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=4521.45 tx_e2a452
+2026-09-28T03:15:32.582Z ERROR [payments] code=DUPLICATE_WEBHOOK event=evt_ac55b7a8 msg="Evento del PSP procesado más de una vez"
+2026-09-28T04:01:13.871Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30001 tx_23a590 msg="El PSP no respondió en 30s"
+2026-09-28T06:08:16.187Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3850.5 tx_aa192b
+2026-09-28T06:11:46.381Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3287.9 tx_4e031a
+2026-09-28T10:32:12.408Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=911.56 tx_b1271a
+2026-09-28T11:00:09.156Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=3172.99 tx_33b85c
+2026-09-28T11:23:42.035Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=3335.7 tx_1ee50c
+2026-09-28T11:36:09.143Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4138.3 tx_e90f24
+2026-09-28T12:18:46.781Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=2318.73 tx_34f4d4
+2026-09-28T12:47:51.029Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=879.41 tx_3032ca
+2026-09-28T15:02:56.985Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3679.95 tx_e5bec4
+2026-09-28T16:38:59.993Z WARN  [payments] code=CARD_DECLINED reason=insufficient_funds tx_8e731d
+2026-09-28T16:44:20.996Z WARN  [payments] code=CARD_DECLINED reason=do_not_honor tx_536a61
+2026-09-28T16:58:05.452Z ERROR [payments] code=FX_RATE_STALE age_s=1758 msg="Tipo de cambio USD/MXN desactualizado"
+2026-09-28T17:19:56.414Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4128.2 tx_87214e
+2026-09-28T18:28:54.204Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=276.37 tx_683e1d
+2026-09-28T18:51:44.736Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=119.1 tx_9b8d3a
+2026-09-28T19:07:04.453Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30017 tx_02b5ea msg="El PSP no respondió en 30s"
+2026-09-28T19:48:48.779Z ERROR [payments] code=FX_RATE_STALE age_s=1409 msg="Tipo de cambio USD/MXN desactualizado"
+2026-09-28T20:06:49.187Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2650.37 tx_e30a8b
+2026-09-28T20:12:27.118Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=1931.32 tx_d86b24
+2026-09-28T22:30:19.254Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=1742.17 tx_9d7413
+2026-09-28T23:28:37.390Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=2159.69 tx_212763
+2026-09-28T23:47:21.063Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=696.28 tx_ce46e1
+2026-09-28T23:49:00.490Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2111.57 tx_1a1706
+2026-09-29T00:54:52.714Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=797.91 tx_8892c9
+2026-09-29T01:03:11.400Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=3154.14 tx_59840a
+2026-09-29T03:22:57.857Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=3301.05 tx_255ca9
+2026-09-29T05:03:16.148Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=732.1 tx_9dc761
+2026-09-29T07:16:25.867Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=3418.29 tx_71507b
+2026-09-29T07:52:46.818Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30027 tx_690d90 msg="El PSP no respondió en 30s"
+2026-09-29T10:34:46.310Z WARN  [payments] code=CARD_DECLINED reason=do_not_honor tx_6d85d7
+2026-09-29T10:37:15.655Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3080.56 tx_142457
+2026-09-29T13:00:00.171Z WARN  [payments] code=CARD_DECLINED reason=expired_card tx_95945f
+2026-09-29T14:01:30.000Z WARN  [payments] code=PSP_LATENCY_HIGH psp=pagonet p95_ms=8420 msg="Latencia del PSP por encima del umbral"
+2026-09-29T14:02:27.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30019 tx_0681cc msg="El PSP no respondió en 30s"
+2026-09-29T14:02:42.253Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=3377.97 tx_f03974
+2026-09-29T14:03:20.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30009 tx_2e0702 msg="El PSP no respondió en 30s"
+2026-09-29T14:03:55.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30039 tx_cb2c07 msg="El PSP no respondió en 30s"
+2026-09-29T14:05:05.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30037 tx_8d383f msg="El PSP no respondió en 30s"
+2026-09-29T14:05:59.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30020 tx_499824 msg="El PSP no respondió en 30s"
+2026-09-29T14:06:27.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30021 tx_30d955 msg="El PSP no respondió en 30s"
+2026-09-29T14:07:25.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30022 tx_eaa203 msg="El PSP no respondió en 30s"
+2026-09-29T14:08:10.000Z WARN  [payments] code=CIRCUIT_OPEN psp=pagonet msg="Circuit breaker abierto, cargos en cola"
+2026-09-29T14:08:15.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30032 tx_8f8855 msg="El PSP no respondió en 30s"
+2026-09-29T14:09:16.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30012 tx_9d76fb msg="El PSP no respondió en 30s"
+2026-09-29T14:10:09.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30028 tx_9cc9fb msg="El PSP no respondió en 30s"
+2026-09-29T14:10:39.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30034 tx_459a06 msg="El PSP no respondió en 30s"
+2026-09-29T14:11:23.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30022 tx_18c1e0 msg="El PSP no respondió en 30s"
+2026-09-29T14:12:14.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30039 tx_fb8e44 msg="El PSP no respondió en 30s"
+2026-09-29T14:13:27.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30025 tx_2a06df msg="El PSP no respondió en 30s"
+2026-09-29T14:13:50.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30010 tx_d2c799 msg="El PSP no respondió en 30s"
+2026-09-29T14:15:04.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30040 tx_0aa0fe msg="El PSP no respondió en 30s"
+2026-09-29T14:15:50.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30007 tx_bff537 msg="El PSP no respondió en 30s"
+2026-09-29T14:16:30.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30031 tx_c366f3 msg="El PSP no respondió en 30s"
+2026-09-29T14:17:13.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30026 tx_355b05 msg="El PSP no respondió en 30s"
+2026-09-29T14:18:24.000Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30024 tx_96b476 msg="El PSP no respondió en 30s"
+2026-09-29T14:19:40.000Z INFO  [payments] code=CIRCUIT_CLOSED psp=pagonet msg="PSP recuperado, se procesa la cola"
+2026-09-29T15:54:07.271Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=1166.54 tx_fb65a5
+2026-09-29T16:28:14.681Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2506.72 tx_9629f2
+2026-09-29T16:35:17.339Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3406.3 tx_68eeb8
+2026-09-29T18:37:30.336Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3228.32 tx_0fc3af
+2026-09-29T19:05:01.760Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2975.68 tx_ba9a18
+2026-09-29T19:10:55.593Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4334.21 tx_9982ec
+2026-09-29T20:29:28.620Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4275.73 tx_06e780
+2026-09-29T21:04:05.951Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2512.17 tx_a70b8c
+2026-09-29T22:03:19.309Z WARN  [payments] code=CARD_DECLINED reason=insufficient_funds tx_d02144
+2026-09-30T00:56:08.836Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=928.71 tx_c91460
+2026-09-30T01:44:23.068Z ERROR [payments] code=DUPLICATE_WEBHOOK event=evt_ebc6103d msg="Evento del PSP procesado más de una vez"
+2026-09-30T02:49:11.636Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=1833.02 tx_f5cdea
+2026-09-30T03:27:53.754Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4617.51 tx_e3c115
+2026-09-30T03:35:32.650Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2169.53 tx_ad6cb8
+2026-09-30T04:15:40.952Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3606.32 tx_411efb
+2026-09-30T04:18:22.317Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=210.18 tx_c4b40e
+2026-09-30T05:49:32.493Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2647.43 tx_553aec
+2026-09-30T06:18:04.723Z ERROR [payments] code=FX_RATE_STALE age_s=953 msg="Tipo de cambio USD/MXN desactualizado"
+2026-09-30T06:44:15.919Z WARN  [payments] code=CARD_DECLINED reason=insufficient_funds tx_a7a0ec
+2026-09-30T07:14:00.436Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=972.92 tx_983cfc
+2026-09-30T09:06:57.510Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=608.84 tx_7b27a4
+2026-09-30T09:13:59.130Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2852.02 tx_4288b6
+2026-09-30T09:16:22.712Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=709.34 tx_026491
+2026-09-30T09:16:42.676Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=618.02 tx_04ae42
+2026-09-30T09:30:00.388Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=735.92 tx_e36963
+2026-09-30T09:53:41.947Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=4371.92 tx_73a640
+2026-09-30T10:00:45.921Z WARN  [payments] code=CARD_DECLINED reason=expired_card tx_f96782
+2026-09-30T11:06:02.347Z WARN  [payments] code=CARD_DECLINED reason=expired_card tx_687b4f
+2026-09-30T11:23:24.679Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3998.15 tx_6f39e2
+2026-09-30T11:35:35.364Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=2958.27 tx_11cab8
+2026-09-30T14:25:41.544Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=451.73 tx_5f7faf
+2026-09-30T14:38:22.110Z ERROR [payments] code=DUPLICATE_WEBHOOK event=evt_bbd215f0 msg="Evento del PSP procesado más de una vez"
+2026-09-30T15:19:19.950Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4062.27 tx_bfa425
+2026-09-30T15:20:20.229Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=4843.05 tx_76ed92
+2026-09-30T17:19:35.015Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4756.94 tx_b9f342
+2026-09-30T18:53:02.482Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4722.81 tx_38d1d2
+2026-10-01T02:22:35.741Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2139.5 tx_602f83
+2026-10-01T02:34:00.479Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=1161.4 tx_7cbb83
+2026-10-01T03:42:44.008Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4158.02 tx_a84985
+2026-10-01T04:03:38.065Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=2365.53 tx_8d916d
+2026-10-01T05:24:52.334Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3224.31 tx_fb242a
+2026-10-01T07:12:34.784Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3146.95 tx_003fc4
+2026-10-01T07:23:11.620Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=3952.78 tx_9900af
+2026-10-01T09:50:36.786Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4087.79 tx_49bc0b
+2026-10-01T10:08:51.216Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3078.9 tx_437551
+2026-10-01T11:08:17.466Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4036.48 tx_fbd7b9
+2026-10-01T11:26:42.051Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3987.75 tx_632087
+2026-10-01T12:16:38.615Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=1878.0 tx_6cc854
+2026-10-01T12:32:02.046Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=84.93 tx_4f6ce7
+2026-10-01T13:08:08.684Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=3457.2 tx_705c1b
+2026-10-01T13:49:03.860Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=2470.5 tx_51c631
+2026-10-01T13:51:36.024Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=1116.04 tx_8131ec
+2026-10-01T13:58:06.260Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=4973.76 tx_6a8ae5
+2026-10-01T13:59:06.913Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=142.76 tx_76b59f
+2026-10-01T14:46:37.068Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=4234.88 tx_6e101d
+2026-10-01T15:36:25.318Z ERROR [payments] code=DUPLICATE_WEBHOOK event=evt_23a1711a msg="Evento del PSP procesado más de una vez"
+2026-10-01T16:43:03.132Z WARN  [payments] code=CARD_DECLINED reason=insufficient_funds tx_d03d1c
+2026-10-01T17:06:44.030Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=834.66 tx_185df0
+2026-10-01T18:04:22.780Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=1058.85 tx_73fdb0
+2026-10-01T19:02:48.420Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=465.68 tx_2335e4
+2026-10-01T19:16:15.007Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2291.57 tx_86236c
+2026-10-01T21:23:09.841Z ERROR [payments] code=DUPLICATE_WEBHOOK event=evt_f517746b msg="Evento del PSP procesado más de una vez"
+2026-10-01T21:27:10.113Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30005 tx_71e604 msg="El PSP no respondió en 30s"
+2026-10-01T21:49:18.797Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=4901.63 tx_1298d6
+2026-10-01T22:14:54.877Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=1194.33 tx_1bbfc2
+2026-10-01T23:55:06.685Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=2707.59 tx_5d1a2d
+2026-10-01T23:55:22.126Z ERROR [payments] code=DUPLICATE_WEBHOOK event=evt_6a27f69c msg="Evento del PSP procesado más de una vez"
+2026-10-02T00:28:18.648Z ERROR [payments] code=FX_RATE_STALE age_s=1531 msg="Tipo de cambio USD/MXN desactualizado"
+2026-10-02T01:22:01.255Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2028.74 tx_e5dc7d
+2026-10-02T02:50:39.987Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=474.9 tx_2908f4
+2026-10-02T03:15:46.377Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4565.0 tx_18b992
+2026-10-02T03:45:29.449Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3068.09 tx_bdaaab
+2026-10-02T04:01:10.395Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2437.17 tx_baf964
+2026-10-02T06:07:06.731Z WARN  [payments] code=CARD_DECLINED reason=expired_card tx_098023
+2026-10-02T06:24:26.589Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=4605.09 tx_de7eae
+2026-10-02T06:37:28.205Z ERROR [payments] code=DUPLICATE_WEBHOOK event=evt_240af744 msg="Evento del PSP procesado más de una vez"
+2026-10-02T08:28:51.417Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=1309.27 tx_101505
+2026-10-02T09:59:31.123Z WARN  [payments] code=CARD_DECLINED reason=expired_card tx_9a65d2
+2026-10-02T11:16:40.367Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=1448.56 tx_3aceeb
+2026-10-02T12:02:37.012Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=1877.99 tx_c4ae94
+2026-10-02T12:04:22.932Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=3957.42 tx_ca5ec3
+2026-10-02T13:11:33.219Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=2085.37 tx_d5939a
+2026-10-02T13:21:21.173Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=2707.16 tx_fe0ead
+2026-10-02T14:14:47.594Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=4403.97 tx_e82fd1
+2026-10-02T14:30:27.351Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4395.08 tx_e805e7
+2026-10-02T16:33:07.796Z ERROR [payments] code=DUPLICATE_WEBHOOK event=evt_3c5823cd msg="Evento del PSP procesado más de una vez"
+2026-10-02T17:31:38.480Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4891.1 tx_6f47dc
+2026-10-02T17:36:09.078Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=1944.82 tx_5d123c
+2026-10-02T17:42:37.427Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4814.92 tx_a81b04
+2026-10-02T17:44:43.318Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=68.88 tx_437493
+2026-10-02T18:52:44.399Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=568.79 tx_c3aadf
+2026-10-02T20:53:42.068Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=781.36 tx_c5e435
+2026-10-02T21:35:29.902Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30009 tx_4e37a4 msg="El PSP no respondió en 30s"
+2026-10-02T22:45:37.979Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=2483.74 tx_79a069
+2026-10-02T23:08:54.431Z ERROR [payments] code=FX_RATE_STALE age_s=1896 msg="Tipo de cambio USD/MXN desactualizado"
+2026-10-03T00:19:29.250Z WARN  [payments] code=CARD_DECLINED reason=do_not_honor tx_8145f9
+2026-10-03T01:04:16.299Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30031 tx_ed2625 msg="El PSP no respondió en 30s"
+2026-10-03T01:20:55.891Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=242.86 tx_29d288
+2026-10-03T04:26:28.850Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2614.94 tx_83ec83
+2026-10-03T05:02:19.419Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3910.6 tx_566a20
+2026-10-03T05:58:39.359Z WARN  [payments] code=CARD_DECLINED reason=expired_card tx_f7010b
+2026-10-03T06:10:38.508Z WARN  [payments] code=CARD_DECLINED reason=do_not_honor tx_e42924
+2026-10-03T07:04:24.113Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=4839.08 tx_bb0f98
+2026-10-03T08:04:51.395Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=1167.39 tx_33cd00
+2026-10-03T09:21:46.767Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=4045.36 tx_5f64e9
+2026-10-03T10:06:54.987Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2858.22 tx_10b5d6
+2026-10-03T11:17:50.439Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=3643.23 tx_3e8a53
+2026-10-03T12:13:00.095Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3088.53 tx_9b8d3d
+2026-10-03T13:07:18.122Z WARN  [payments] code=CARD_DECLINED reason=do_not_honor tx_4afe34
+2026-10-03T14:01:56.474Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2831.64 tx_e3855c
+2026-10-03T15:03:55.446Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2303.99 tx_aaf162
+2026-10-03T16:10:31.834Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=3947.58 tx_6f0efe
+2026-10-03T16:46:35.317Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=2152.27 tx_ccf8db
+2026-10-03T17:03:43.530Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4807.8 tx_570650
+2026-10-03T17:12:51.196Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=514.37 tx_a90146
+2026-10-03T17:31:10.132Z ERROR [payments] code=TIMEOUT_PSP psp=pagonet latency_ms=30018 tx_3f83de msg="El PSP no respondió en 30s"
+2026-10-03T19:18:09.623Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=2572.29 tx_1b7227
+2026-10-03T19:30:08.366Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=4305.26 tx_74e123
+2026-10-03T20:06:00.895Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=4860.66 tx_1e6467
+2026-10-03T21:26:33.776Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2299.65 tx_32a636
+2026-10-03T22:54:30.457Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=4205.66 tx_3b9828
+2026-10-03T23:41:26.536Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4104.33 tx_a72a3b
+2026-10-04T00:49:02.468Z WARN  [payments] code=CARD_DECLINED reason=do_not_honor tx_ee46eb
+2026-10-04T01:02:14.984Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=1039.91 tx_807227
+2026-10-04T04:35:10.298Z WARN  [payments] code=CARD_DECLINED reason=expired_card tx_3a8a22
+2026-10-04T05:10:16.069Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=928.03 tx_3b8626
+2026-10-04T06:55:12.368Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=3841.9 tx_4dc926
+2026-10-04T07:59:01.208Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4030.56 tx_f25b9a
+2026-10-04T08:01:49.390Z INFO  [payments] code=CHARGE_APPROVED method=spei amount_mxn=4578.81 tx_d17fa5
+2026-10-04T08:49:07.659Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3504.12 tx_ad0caf
+2026-10-04T09:11:28.416Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=175.78 tx_660ffb
+2026-10-04T09:25:35.363Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=212.29 tx_fbe7f1
+2026-10-04T09:45:05.089Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2706.27 tx_9df078
+2026-10-04T09:54:08.131Z INFO  [payments] code=CHARGE_APPROVED method=oxxo amount_mxn=2196.91 tx_bfa559
+2026-10-04T11:08:12.972Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3476.18 tx_5d8c99
+2026-10-04T12:15:37.112Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=3546.09 tx_62b7e6
+2026-10-04T12:38:16.506Z WARN  [payments] code=CARD_DECLINED reason=insufficient_funds tx_1da711
+2026-10-04T19:53:18.274Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2775.46 tx_bdbf46
+2026-10-04T20:52:25.829Z ERROR [payments] code=FX_RATE_STALE age_s=1231 msg="Tipo de cambio USD/MXN desactualizado"
+2026-10-04T23:03:14.662Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=4355.65 tx_77c3ac
+2026-10-04T23:12:26.210Z INFO  [payments] code=CHARGE_APPROVED method=card amount_mxn=2862.36 tx_d56689
+2026-10-04T23:41:15.427Z ERROR [payments] code=DUPLICATE_WEBHOOK event=evt_78583a50 msg="Evento del PSP procesado más de una vez"

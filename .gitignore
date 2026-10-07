@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log.tmp
+.DS_Store
+# Ajustes personales de Claude Code (no se comparten)
+.claude/settings.local.json
+# Archivos que genera el MCP de Playwright (snapshots y consola)
+.playwright-mcp/

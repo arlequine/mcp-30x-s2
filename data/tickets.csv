@@ -1,0 +1,11 @@
+ticket_id,created_at,service,severity,title,status
+SUP-1201,2026-09-29T14:06:00Z,payments,alta,"Clientes reportan cargos ""en proceso"" que no se completan",resuelto
+SUP-1202,2026-09-29T14:11:00Z,payments,alta,Comercio grande sin poder cobrar con tarjeta,resuelto
+SUP-1203,2026-09-30T10:20:00Z,payments,media,Recibo duplicado en el estado de cuenta,abierto
+SUP-1204,2026-09-30T18:45:00Z,payments,baja,Monto en USD con tipo de cambio de ayer,abierto
+SUP-1205,2026-10-01T09:03:00Z,auth,alta,Todos los usuarios fueron deslogueados de golpe,resuelto
+SUP-1206,2026-10-01T09:09:00Z,auth,media,La app móvil pide login cada 5 minutos,resuelto
+SUP-1207,2026-10-02T16:30:00Z,auth,baja,Bloqueo por demasiados intentos,cerrado
+SUP-1208,2026-10-03T22:52:00Z,notifications,media,No llegan los recibos por correo,abierto
+SUP-1209,2026-10-03T23:10:00Z,notifications,media,Correo de reembolso parcial nunca llegó,abierto
+SUP-1210,2026-10-04T12:00:00Z,payments,media,Webhook de pago confirmado dos veces en el ERP,abierto

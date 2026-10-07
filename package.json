@@ -1,0 +1,32 @@
+{
+  "name": "30x-mcp-lab",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "description": "Repo de práctica de la sesión 2 de 30X · AI for Developers: MCP, Claude Code y Skills sobre una API de pagos ficticia",
+  "scripts": {
+    "start": "tsx src/server.ts",
+    "test": "node --import tsx --test test/*.test.ts",
+    "lint": "tsc --noEmit",
+    "smoke": "tsx scripts/smoke-test.ts",
+    "demo:lifecycle": "tsx scripts/lifecycle-demo.ts",
+    "demo:roots": "tsx scripts/roots-demo.ts",
+    "status": "tsx scripts/status-server.ts",
+    "mcp:incidents": "tsx mcp-servers/incidents/server.ts",
+    "mcp:weather": "tsx mcp-servers/weather/server.ts",
+    "inspector": "npx -y @modelcontextprotocol/inspector@2.9.0 node --import tsx mcp-servers/incidents/server.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.32.1",
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/server-filesystem": "2026.8.31",
+    "@types/node": "^22.10.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

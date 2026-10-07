@@ -1,0 +1,148 @@
+2026-09-28T00:39:48.412Z INFO  [auth] code=LOGIN_OK user=usr_6101
+2026-09-28T04:05:36.539Z INFO  [auth] code=LOGIN_OK user=usr_8113
+2026-09-28T04:48:41.987Z INFO  [auth] code=LOGIN_OK user=usr_5881
+2026-09-28T05:17:51.683Z INFO  [auth] code=LOGIN_OK user=usr_4373
+2026-09-28T05:30:39.219Z INFO  [auth] code=LOGIN_OK user=usr_2120
+2026-09-28T07:12:31.224Z INFO  [auth] code=LOGIN_OK user=usr_8326
+2026-09-28T07:24:03.222Z INFO  [auth] code=LOGIN_OK user=usr_1211
+2026-09-28T08:51:14.540Z INFO  [auth] code=LOGIN_OK user=usr_2176
+2026-09-28T08:53:50.730Z INFO  [auth] code=LOGIN_OK user=usr_8714
+2026-09-28T10:10:28.113Z INFO  [auth] code=LOGIN_OK user=usr_9080
+2026-09-28T10:34:23.664Z INFO  [auth] code=LOGIN_OK user=usr_1152
+2026-09-28T10:42:12.649Z INFO  [auth] code=LOGIN_OK user=usr_9626
+2026-09-28T11:29:57.270Z INFO  [auth] code=LOGIN_OK user=usr_5019
+2026-09-28T11:50:50.523Z INFO  [auth] code=LOGIN_OK user=usr_2381
+2026-09-28T13:33:25.254Z INFO  [auth] code=LOGIN_OK user=usr_8413
+2026-09-28T16:21:07.754Z WARN  [auth] code=LOGIN_FAILED user=usr_2028 reason=bad_password
+2026-09-28T16:55:43.839Z INFO  [auth] code=LOGIN_OK user=usr_3558
+2026-09-28T18:16:39.852Z INFO  [auth] code=LOGIN_OK user=usr_8082
+2026-09-28T18:46:40.892Z INFO  [auth] code=LOGIN_OK user=usr_7896
+2026-09-28T19:25:07.222Z WARN  [auth] code=LOGIN_FAILED user=usr_9620 reason=bad_password
+2026-09-28T20:34:53.025Z INFO  [auth] code=LOGIN_OK user=usr_1699
+2026-09-28T20:45:52.869Z ERROR [auth] code=INVALID_SIGNATURE user=usr_7992 msg="Firma del token inválida"
+2026-09-28T21:33:34.239Z INFO  [auth] code=LOGIN_OK user=usr_2327
+2026-09-29T00:11:58.710Z WARN  [auth] code=LOGIN_FAILED user=usr_9157 reason=bad_password
+2026-09-29T01:51:53.462Z INFO  [auth] code=LOGIN_OK user=usr_3838
+2026-09-29T01:58:50.348Z INFO  [auth] code=LOGIN_OK user=usr_3087
+2026-09-29T02:22:38.131Z INFO  [auth] code=LOGIN_OK user=usr_5465
+2026-09-29T02:43:08.850Z ERROR [auth] code=INVALID_SIGNATURE user=usr_1098 msg="Firma del token inválida"
+2026-09-29T07:10:00.350Z INFO  [auth] code=LOGIN_OK user=usr_5566
+2026-09-29T07:14:24.654Z ERROR [auth] code=INVALID_SIGNATURE user=usr_6036 msg="Firma del token inválida"
+2026-09-29T10:10:12.726Z INFO  [auth] code=LOGIN_OK user=usr_9474
+2026-09-29T11:25:37.340Z INFO  [auth] code=LOGIN_OK user=usr_7183
+2026-09-29T12:43:59.946Z INFO  [auth] code=LOGIN_OK user=usr_5459
+2026-09-29T12:51:58.411Z INFO  [auth] code=LOGIN_OK user=usr_9536
+2026-09-29T12:54:52.368Z INFO  [auth] code=LOGIN_OK user=usr_3588
+2026-09-29T12:58:20.764Z INFO  [auth] code=LOGIN_OK user=usr_4766
+2026-09-29T16:19:24.351Z INFO  [auth] code=LOGIN_OK user=usr_9722
+2026-09-29T17:21:38.249Z INFO  [auth] code=LOGIN_OK user=usr_1568
+2026-09-29T18:22:48.333Z INFO  [auth] code=LOGIN_OK user=usr_8519
+2026-09-29T18:24:52.515Z INFO  [auth] code=LOGIN_OK user=usr_8591
+2026-09-29T20:22:01.964Z INFO  [auth] code=LOGIN_OK user=usr_5917
+2026-09-29T21:35:25.545Z INFO  [auth] code=LOGIN_OK user=usr_5567
+2026-09-29T21:50:51.211Z WARN  [auth] code=LOGIN_FAILED user=usr_5947 reason=bad_password
+2026-09-29T22:37:48.663Z INFO  [auth] code=LOGIN_OK user=usr_6216
+2026-09-29T23:42:32.017Z INFO  [auth] code=LOGIN_OK user=usr_2835
+2026-09-30T03:10:31.801Z INFO  [auth] code=LOGIN_OK user=usr_7169
+2026-09-30T03:34:43.701Z WARN  [auth] code=LOGIN_FAILED user=usr_5519 reason=bad_password
+2026-09-30T06:04:27.756Z INFO  [auth] code=LOGIN_OK user=usr_4487
+2026-09-30T06:40:31.256Z INFO  [auth] code=LOGIN_OK user=usr_1991
+2026-09-30T12:11:34.110Z INFO  [auth] code=LOGIN_OK user=usr_7471
+2026-09-30T13:22:41.853Z INFO  [auth] code=LOGIN_OK user=usr_5919
+2026-09-30T14:50:26.202Z INFO  [auth] code=LOGIN_OK user=usr_1498
+2026-09-30T15:25:40.546Z INFO  [auth] code=LOGIN_OK user=usr_9511
+2026-09-30T16:15:37.728Z INFO  [auth] code=LOGIN_OK user=usr_9652
+2026-09-30T16:40:06.831Z INFO  [auth] code=LOGIN_OK user=usr_3115
+2026-09-30T16:46:51.312Z INFO  [auth] code=LOGIN_OK user=usr_8344
+2026-09-30T17:42:33.808Z WARN  [auth] code=LOGIN_FAILED user=usr_7318 reason=bad_password
+2026-09-30T17:57:30.806Z INFO  [auth] code=LOGIN_OK user=usr_3655
+2026-09-30T18:39:33.650Z INFO  [auth] code=LOGIN_OK user=usr_2548
+2026-09-30T20:31:39.364Z INFO  [auth] code=LOGIN_OK user=usr_3709
+2026-09-30T21:00:07.752Z INFO  [auth] code=LOGIN_OK user=usr_3065
+2026-09-30T23:41:25.092Z INFO  [auth] code=LOGIN_OK user=usr_1832
+2026-09-30T23:55:29.380Z INFO  [auth] code=LOGIN_OK user=usr_9566
+2026-10-01T00:41:50.968Z INFO  [auth] code=LOGIN_OK user=usr_9287
+2026-10-01T00:51:13.338Z INFO  [auth] code=LOGIN_OK user=usr_8603
+2026-10-01T04:31:50.012Z INFO  [auth] code=LOGIN_OK user=usr_3185
+2026-10-01T06:06:11.338Z INFO  [auth] code=LOGIN_OK user=usr_9990
+2026-10-01T06:07:34.310Z INFO  [auth] code=LOGIN_OK user=usr_5667
+2026-10-01T06:16:07.426Z INFO  [auth] code=LOGIN_OK user=usr_8369
+2026-10-01T07:57:43.415Z INFO  [auth] code=LOGIN_OK user=usr_4332
+2026-10-01T08:21:30.432Z ERROR [auth] code=RATE_LIMITED ip=203.0.113.104 msg="Demasiados intentos de login"
+2026-10-01T08:59:45.000Z INFO  [auth] code=KEY_ROTATION_COMPLETED kid=2026-10 msg="Nueva llave de firma activa; la anterior se revocó"
+2026-10-01T09:00:20.000Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_2913 msg="Token firmado con llave revocada"
+2026-10-01T09:01:38.000Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_1670 msg="Token firmado con llave revocada"
+2026-10-01T09:03:06.000Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_2684 msg="Token firmado con llave revocada"
+2026-10-01T09:04:23.000Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_6174 msg="Token firmado con llave revocada"
+2026-10-01T09:05:43.000Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_8822 msg="Token firmado con llave revocada"
+2026-10-01T09:06:12.159Z INFO  [auth] code=LOGIN_OK user=usr_2839
+2026-10-01T09:07:21.000Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_3794 msg="Token firmado con llave revocada"
+2026-10-01T09:08:46.000Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_2510 msg="Token firmado con llave revocada"
+2026-10-01T09:09:58.000Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_4887 msg="Token firmado con llave revocada"
+2026-10-01T11:35:12.310Z INFO  [auth] code=LOGIN_OK user=usr_2050
+2026-10-01T12:31:36.449Z INFO  [auth] code=LOGIN_OK user=usr_2011
+2026-10-01T13:33:57.903Z INFO  [auth] code=LOGIN_OK user=usr_9779
+2026-10-01T15:06:20.110Z INFO  [auth] code=LOGIN_OK user=usr_3849
+2026-10-01T15:32:55.719Z INFO  [auth] code=LOGIN_OK user=usr_1711
+2026-10-01T16:11:39.600Z INFO  [auth] code=LOGIN_OK user=usr_9530
+2026-10-01T19:01:49.140Z INFO  [auth] code=LOGIN_OK user=usr_1371
+2026-10-01T19:04:23.667Z INFO  [auth] code=LOGIN_OK user=usr_8755
+2026-10-01T20:37:16.161Z INFO  [auth] code=LOGIN_OK user=usr_2623
+2026-10-01T21:11:41.612Z ERROR [auth] code=RATE_LIMITED ip=203.0.113.179 msg="Demasiados intentos de login"
+2026-10-02T00:26:08.988Z INFO  [auth] code=LOGIN_OK user=usr_2328
+2026-10-02T01:20:23.315Z INFO  [auth] code=LOGIN_OK user=usr_7659
+2026-10-02T01:25:54.704Z INFO  [auth] code=LOGIN_OK user=usr_5613
+2026-10-02T05:46:03.722Z INFO  [auth] code=LOGIN_OK user=usr_8405
+2026-10-02T06:40:52.587Z WARN  [auth] code=LOGIN_FAILED user=usr_4313 reason=bad_password
+2026-10-02T07:12:42.163Z INFO  [auth] code=LOGIN_OK user=usr_9025
+2026-10-02T07:15:29.043Z INFO  [auth] code=LOGIN_OK user=usr_3751
+2026-10-02T08:45:48.560Z INFO  [auth] code=LOGIN_OK user=usr_4373
+2026-10-02T08:49:52.502Z INFO  [auth] code=LOGIN_OK user=usr_6575
+2026-10-02T09:44:51.670Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_3253 msg="Sesión expirada"
+2026-10-02T11:11:26.291Z INFO  [auth] code=LOGIN_OK user=usr_7571
+2026-10-02T15:53:41.836Z INFO  [auth] code=LOGIN_OK user=usr_2982
+2026-10-02T15:55:42.090Z INFO  [auth] code=LOGIN_OK user=usr_8492
+2026-10-02T17:33:19.452Z INFO  [auth] code=LOGIN_OK user=usr_4845
+2026-10-02T18:25:25.285Z INFO  [auth] code=LOGIN_OK user=usr_1778
+2026-10-02T18:46:43.554Z INFO  [auth] code=LOGIN_OK user=usr_3482
+2026-10-02T20:21:31.761Z INFO  [auth] code=LOGIN_OK user=usr_4347
+2026-10-03T02:19:03.939Z INFO  [auth] code=LOGIN_OK user=usr_4115
+2026-10-03T04:36:12.537Z INFO  [auth] code=LOGIN_OK user=usr_1825
+2026-10-03T04:59:20.038Z INFO  [auth] code=LOGIN_OK user=usr_2549
+2026-10-03T05:20:58.819Z INFO  [auth] code=LOGIN_OK user=usr_7718
+2026-10-03T05:58:46.513Z INFO  [auth] code=LOGIN_OK user=usr_4924
+2026-10-03T08:44:46.960Z INFO  [auth] code=LOGIN_OK user=usr_5684
+2026-10-03T08:53:34.081Z INFO  [auth] code=LOGIN_OK user=usr_9932
+2026-10-03T09:59:08.051Z INFO  [auth] code=LOGIN_OK user=usr_6546
+2026-10-03T10:37:59.549Z INFO  [auth] code=LOGIN_OK user=usr_3313
+2026-10-03T11:57:32.066Z INFO  [auth] code=LOGIN_OK user=usr_5440
+2026-10-03T15:21:55.907Z INFO  [auth] code=LOGIN_OK user=usr_4235
+2026-10-03T16:17:31.909Z INFO  [auth] code=LOGIN_OK user=usr_5203
+2026-10-03T17:05:28.950Z INFO  [auth] code=LOGIN_OK user=usr_5612
+2026-10-03T18:19:11.506Z WARN  [auth] code=LOGIN_FAILED user=usr_7959 reason=bad_password
+2026-10-03T18:21:27.147Z INFO  [auth] code=LOGIN_OK user=usr_1269
+2026-10-03T19:40:42.907Z INFO  [auth] code=LOGIN_OK user=usr_6107
+2026-10-03T20:17:45.378Z INFO  [auth] code=LOGIN_OK user=usr_8645
+2026-10-03T20:37:23.324Z INFO  [auth] code=LOGIN_OK user=usr_5355
+2026-10-03T22:53:18.393Z INFO  [auth] code=LOGIN_OK user=usr_4752
+2026-10-04T01:49:55.645Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_6094 msg="Sesión expirada"
+2026-10-04T01:54:38.424Z INFO  [auth] code=LOGIN_OK user=usr_4625
+2026-10-04T02:34:39.156Z INFO  [auth] code=LOGIN_OK user=usr_8213
+2026-10-04T03:08:06.632Z INFO  [auth] code=LOGIN_OK user=usr_2221
+2026-10-04T04:23:47.365Z INFO  [auth] code=LOGIN_OK user=usr_9803
+2026-10-04T07:44:20.137Z INFO  [auth] code=LOGIN_OK user=usr_7516
+2026-10-04T09:30:53.617Z ERROR [auth] code=INVALID_SIGNATURE user=usr_4231 msg="Firma del token inválida"
+2026-10-04T10:41:18.083Z INFO  [auth] code=LOGIN_OK user=usr_1955
+2026-10-04T10:44:00.571Z INFO  [auth] code=LOGIN_OK user=usr_9565
+2026-10-04T11:08:59.958Z INFO  [auth] code=LOGIN_OK user=usr_3397
+2026-10-04T11:35:23.722Z INFO  [auth] code=LOGIN_OK user=usr_7660
+2026-10-04T14:40:32.309Z WARN  [auth] code=LOGIN_FAILED user=usr_3658 reason=bad_password
+2026-10-04T16:09:07.231Z INFO  [auth] code=LOGIN_OK user=usr_3784
+2026-10-04T19:08:46.491Z INFO  [auth] code=LOGIN_OK user=usr_3287
+2026-10-04T19:10:12.780Z INFO  [auth] code=LOGIN_OK user=usr_5957
+2026-10-04T19:20:55.763Z WARN  [auth] code=LOGIN_FAILED user=usr_2176 reason=bad_password
+2026-10-04T19:23:43.161Z ERROR [auth] code=TOKEN_EXPIRED kid=2026-09 user=usr_8935 msg="Sesión expirada"
+2026-10-04T19:27:31.640Z INFO  [auth] code=LOGIN_OK user=usr_5563
+2026-10-04T19:38:04.855Z INFO  [auth] code=LOGIN_OK user=usr_6486
+2026-10-04T22:39:58.962Z INFO  [auth] code=LOGIN_OK user=usr_1906
+2026-10-04T23:36:12.691Z INFO  [auth] code=LOGIN_OK user=usr_6370
